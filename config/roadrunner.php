@@ -116,7 +116,7 @@ return [
 
     'workers' => [
         Mode::MODE_HTTP => \Spiral\RoadRunnerLaravel\Worker::class,
-        // Mode::MODE_JOBS => ...,
+//        Mode::MODE_JOBS => \Spiral\RoadRunnerLaravel\JobsWorker::class,
         // Mode::MODE_TEMPORAL => ...,
     ],
 ];

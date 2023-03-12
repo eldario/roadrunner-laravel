@@ -21,7 +21,8 @@
         "nyholm/psr7": "^1.5",
         "spiral/roadrunner-http": "^2.2",
         "spiral/roadrunner-worker": "^2.2",
-        "symfony/psr-http-message-bridge": "^2.1"
+        "symfony/psr-http-message-bridge": "^2.1",
+        "spiral/roadrunner-jobs": "^3.0"
     },
     "require-dev": {
         "guzzlehttp/guzzle": "^6.3 || ~7.0",
